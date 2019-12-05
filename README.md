@@ -1,1 +1,1 @@
-# delete-implementation-BladeJT
+# delete-item-implement-Blade
